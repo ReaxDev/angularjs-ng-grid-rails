@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "angularjs-ng-grid-rails"
-  spec.version       = "4.0.2"
+  spec.version       = "4.0.4"
   spec.authors       = ["Jonathan Mueller"]
   spec.email         = ["j.mueller@apoveda.ch"]
   spec.summary       = %q{Gemified version of ngGrid AngularJS plugin}
